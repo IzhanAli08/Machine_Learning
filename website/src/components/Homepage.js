@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import ihp from '../images/IHP.PNG';
 import overlord from '../images/overlord.PNG';
-import h2w from '../images/h2w.PNG';
+import h2w from '../images/stock.jpg';
 
 const Container = styled.div`
   display: flex;

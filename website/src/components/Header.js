@@ -42,7 +42,7 @@ const Header = () => {
   return (
     <NavWrapper>
       <NavContainer>
-        <Logo to="/">Andy Chen</Logo>
+        <Logo to="/">Stedify</Logo>
         <NavMenu>
           <NavItem>
             <NavLinkStyled to="/" exact activeClassName="active">
@@ -51,12 +51,12 @@ const Header = () => {
           </NavItem>
           <NavItem>
             <NavLinkStyled to="/projects" activeClassName="active">
-              Projects
+              Programs
             </NavLinkStyled>
           </NavItem>
           <NavItem>
             <NavLinkStyled to="/about" activeClassName="active">
-              About
+              About Us
             </NavLinkStyled>
           </NavItem>
           
