@@ -66,12 +66,12 @@ class Homepage extends React.Component {
   state = {
     projects: [
       {
-        title: 'Project 1',
+        title: 'NCERT Walkthroughs',
         imageUrl: ihp,
         description: 'Description 1',
       },
       {
-        title: 'Project 2',
+        title: 'Live sessions',
         imageUrl: overlord,
         description: 'Description 2',
       },
