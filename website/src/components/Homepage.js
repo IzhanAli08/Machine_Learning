@@ -68,7 +68,7 @@ class Homepage extends React.Component {
       {
         title: 'NCERT Walkthroughs',
         imageUrl: ihp,
-        description: 'Description 1',
+        description: 'S',
       },
       {
         title: 'Live sessions',
@@ -76,7 +76,7 @@ class Homepage extends React.Component {
         description: 'Description 2',
       },
       {
-        title: 'Project 3',
+        title: 'Our Schools',
         imageUrl: h2w,
         description: 'Description 3',
       },
