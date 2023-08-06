@@ -39,12 +39,6 @@ const AboutPage = () => {
           organization to partner with schools in areas where access to basic education is limited.
           
         </p>
-        <p>
-          Outside of academics and quadball, I have a broad range of interests. I love staying 
-          active and working out, but I also enjoy downtime playing video games and watching TV. 
-          I've also found joy in cooking and experimenting with different recipes. If you'd 
-          like to learn more about my projects or experience, feel free to explore this site.
-        </p>
       </AboutText>
     </AboutContainer>
   );
