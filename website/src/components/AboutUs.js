@@ -34,7 +34,9 @@ const AboutPage = () => {
         <p>
           Stedify was created in 2021 to help struggling STEM students find a better approach to solving challenging problems. This new method
           of STEM education prepares students for college, and further down the line in their careers. Instead of taking the textbook 
-          approach to STEM, at Stedify we prioritize
+          approach to STEM, at Stedify we prioritize the method students take to solving challenging problems, rather than making them
+          blindlessly memorizing formulas without understanding how they are applied. In 2023, we transformed Stedify into a global non-profit
+          organization to partner with schools in areas where access to basic education is limited.
           
         </p>
         <p>
