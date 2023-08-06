@@ -78,7 +78,7 @@ class Homepage extends React.Component {
       {
         title: 'Our Schools',
         imageUrl: h2w,
-        description: 'Description 3',
+        description: 'Our schools will receive increased access to technology, our YouTube channel, and after-school activities where STEM concepts will be emphasized.',
       },
     ],
   };
