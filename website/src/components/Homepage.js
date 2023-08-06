@@ -1,8 +1,8 @@
 import React from 'react';
 import styled from 'styled-components';
-import overlord from '../images/overlord.PNG';
 import h2w from '../images/stock.jpg';
 import nct from '../images/nct.jpeg';
+import vid from '../images/vidlearn.jpg';
 
 const Container = styled.div`
   display: flex;
@@ -72,7 +72,7 @@ class Homepage extends React.Component {
       },
       {
         title: 'Live sessions',
-        imageUrl: overlord,
+        imageUrl: vid,
         description: 'Schools partnered with Stedify will receive our full after-school program including live homework help in STEM areas.',
       },
       {
