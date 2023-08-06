@@ -24,13 +24,13 @@ const AboutText = styled.div`
 `;
 
 const AboutPage = () => {
-  const randomImage = "https://source.unsplash.com/random?portrait";
+  const randomImage = "stlogo.jpg";
 
   return (
     <AboutContainer>
       <PortraitImage src={randomImage} alt="Portrait of Andy Chen" />
       <AboutText>
-        <h1>Andy Chen</h1>
+        <h1>About Us</h1>
         <p>
           Stedify was created in 2021 to help struggling STEM students find a better approach to solving challenging problems. This new method
           of STEM education prepares students for college, and further down the line in their careers. Instead of taking the textbook 
