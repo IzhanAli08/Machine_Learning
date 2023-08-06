@@ -1,6 +1,5 @@
 import React from 'react';
 import styled from 'styled-components';
-import h2w from '../images/stock.jpg';
 import nct from '../images/nct.jpeg';
 import vid from '../images/vidlearn.jpg';
 import school from '../images/school.jpg';
