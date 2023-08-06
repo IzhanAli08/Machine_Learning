@@ -73,7 +73,7 @@ class Homepage extends React.Component {
       {
         title: 'Live sessions',
         imageUrl: overlord,
-        description: 'Description 2',
+        description: 'Schools partnered with Stedify will receive our full after-school program including live homework help in STEM areas.',
       },
       {
         title: 'Our Schools',
