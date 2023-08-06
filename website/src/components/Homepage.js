@@ -1,8 +1,8 @@
 import React from 'react';
 import styled from 'styled-components';
-import ihp from '../images/IHP.PNG';
 import overlord from '../images/overlord.PNG';
 import h2w from '../images/stock.jpg';
+import nct from '../images/nct.jpeg';
 
 const Container = styled.div`
   display: flex;
@@ -67,7 +67,7 @@ class Homepage extends React.Component {
     projects: [
       {
         title: 'NCERT Walkthroughs',
-        imageUrl: ihp,
+        imageUrl: nct,
         description: 'Our YouTube channel provides NCERT tutorials covering a variety of topics, each for different grade levels.',
       },
       {
