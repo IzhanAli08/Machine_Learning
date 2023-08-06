@@ -68,7 +68,7 @@ class Homepage extends React.Component {
       {
         title: 'NCERT Walkthroughs',
         imageUrl: ihp,
-        description: 'S',
+        description: 'Our YouTube channel provides NCERT tutorials covering a variety of topics, each for different grade levels.',
       },
       {
         title: 'Live sessions',
