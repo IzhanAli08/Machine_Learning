@@ -86,7 +86,7 @@ class Homepage extends React.Component {
   render() {
     return (
       <Container>
-        <h1>View my Projects</h1>
+        <h1>Our main programs</h1>
         <ProjectContainer>
           {this.state.projects.map((project, index) => (
             <ProjectCard key={index}>
