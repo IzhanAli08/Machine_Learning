@@ -3,6 +3,7 @@ import styled from 'styled-components';
 import h2w from '../images/stock.jpg';
 import nct from '../images/nct.jpeg';
 import vid from '../images/vidlearn.jpg';
+import school from '../images/school.jpg';
 
 const Container = styled.div`
   display: flex;
@@ -77,7 +78,7 @@ class Homepage extends React.Component {
       },
       {
         title: 'Our Schools',
-        imageUrl: h2w,
+        imageUrl: school,
         description: 'Our schools will receive increased access to technology, our YouTube channel, and after-school activities where STEM concepts will be emphasized.',
       },
     ],
