@@ -2,15 +2,12 @@ import React from "react";
 
 const Projects = () => {
     return (
-     <table class='table'>
-            <thead>
-                <tr>
-                    <th>Math Handouts</th>
-                    
-                    <th></th>
-                    <th>STEM Walkthroughs + Tutorials</th>
-                    <th>Live after-school lessons</th>
-                    
+
+        <div class="card" style="width: 300px;">
+
+
+            <img src="images/polygraph.png" class="card-img-top" alt="..."></img>
+            
 
 
 
@@ -18,14 +15,12 @@ const Projects = () => {
 
 
 
-                </tr>
+        </div>
+     
 
 
         
-            </thead>
-            </table>
-    
-            
+        
 
         
     );
