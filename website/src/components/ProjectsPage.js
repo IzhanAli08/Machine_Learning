@@ -6,6 +6,8 @@ const Projects = () => {
             <thead>
                 <tr>
                     <th>Math Handouts</th>
+                    <th>                       </th>
+                    <th></th>
                     <th>STEM Walkthroughs + Tutorials</th>
                     <th>Live after-school lessons</th>
                     
