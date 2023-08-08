@@ -24,7 +24,7 @@ const AboutText = styled.div`
 `;
 
 const AboutPage = () => {
-  const randomImage = ""  ;
+  const randomImage = "src/images/stlogo.jpg";
 
   return (
     <AboutContainer>
