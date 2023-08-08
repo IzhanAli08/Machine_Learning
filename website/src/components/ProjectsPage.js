@@ -2,9 +2,10 @@ import React from "react";
 
 const Projects = () => {
     return (
-        <div>
+        <div class="container">
             <h1>Projects</h1>
-            {/* Add your projects content here */}
+            
+
         </div>
     );
 };
