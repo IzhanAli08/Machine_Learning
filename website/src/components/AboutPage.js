@@ -28,7 +28,7 @@ const AboutPage = () => {
 
   return (
     <AboutContainer>
-      <PortraitImage src={randomImage} alt="Portrait of Andy Chen" />
+      <PortraitImage src={randomImage}  />
       <AboutText>
         <h1>Andy Chen</h1>
         <p>
