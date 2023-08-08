@@ -24,7 +24,7 @@ const AboutText = styled.div`
 `;
 
 const AboutPage = () => {
-  const randomImage = "https://source.unsplash.com/random?portrait";
+  const randomImage = "stlogo.jpg"  ;
 
   return (
     <AboutContainer>
@@ -37,12 +37,6 @@ const AboutPage = () => {
           approach to STEM, at Stedify we prioritize the method students take to solving challenging problems, rather than making them
           blindlessly memorizing formulas without understanding how they are applied. In 2023, we transformed Stedify into a global non-profit
           organization to partner with schools in areas where access to basic education is limited.
-        </p>
-        <p>
-          Outside of academics and quadball, I have a broad range of interests. I love staying 
-          active and working out, but I also enjoy downtime playing video games and watching TV. 
-          I've also found joy in cooking and experimenting with different recipes. If you'd 
-          like to learn more about my projects or experience, feel free to explore this site.
         </p>
       </AboutText>
     </AboutContainer>
