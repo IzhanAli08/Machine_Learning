@@ -2,11 +2,29 @@ import React from "react";
 
 const Projects = () => {
     return (
-        <div class="container">
-            <h1>Projects</h1>
+        <table class='table'>
+            <thead>
+                <tr>
+                    <th>Math Handouts</td>
+                    <th>STEM Walkthroughs + Tutorials</th>
+                    <th>Live after-school lessons</th>
+                    
+
+
+
+
+
+
+
+                </tr>
+
+
+        
+            </thead>
+    
             
 
-        </div>
+        
     );
 };
 
