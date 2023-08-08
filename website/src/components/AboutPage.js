@@ -32,9 +32,11 @@ const AboutPage = () => {
       <AboutText>
         <h1>Andy Chen</h1>
         <p>
-          Welcome! My name is Andy Chen, and I'm a dual major in Computer Science and ITWS 
-          at Rensselaer Polytechnic Institute, class of 2025. When I'm not deep in my studies, 
-          you can find me on the quadball court, where I play for RPI's club team.
+          Stedify was created in 2021 to help struggling STEM students find a better approach to solving challenging problems. This new method
+          of STEM education prepares students for college, and further down the line in their careers. Instead of taking the textbook 
+          approach to STEM, at Stedify we prioritize the method students take to solving challenging problems, rather than making them
+          blindlessly memorizing formulas without understanding how they are applied. In 2023, we transformed Stedify into a global non-profit
+          organization to partner with schools in areas where access to basic education is limited.
         </p>
         <p>
           Outside of academics and quadball, I have a broad range of interests. I love staying 
