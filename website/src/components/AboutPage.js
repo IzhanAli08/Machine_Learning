@@ -6,7 +6,7 @@ const AboutContainer = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 20px;
+  padding: 15px;
   text-align: justify;
   height: 100vh;  // this makes sure the content takes up the full height of the page
 `;
