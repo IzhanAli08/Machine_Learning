@@ -9,13 +9,17 @@ const Projects = () => {
             <img src="images/polygraph.png" class="card-img-top" alt="..."></img>
             
 
+            </div>
+
+           
 
 
 
 
 
 
-        </div>
+
+        
      
 
 
