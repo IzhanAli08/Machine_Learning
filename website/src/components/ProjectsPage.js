@@ -5,7 +5,7 @@ const Projects = () => {
         <table class='table'>
             <thead>
                 <tr>
-                    <th>Math Handouts</td>
+                    <th>Math Handouts</th>
                     <th>STEM Walkthroughs + Tutorials</th>
                     <th>Live after-school lessons</th>
                     
@@ -21,11 +21,12 @@ const Projects = () => {
 
         
             </thead>
+            </table>
     
             
 
         
     );
-};
+    };
 
 export default Projects;
