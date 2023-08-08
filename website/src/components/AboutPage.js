@@ -13,8 +13,8 @@ const AboutContainer = styled.div`
 
 const PortraitImage = styled.img`
   border-radius: 50%; // This makes the image round
-  width: 200px;
-  height: 200px;
+  width: 400px;
+  height: 400px;
   object-fit: cover;
   margin-right: 20px;
 `;
@@ -24,7 +24,7 @@ const AboutText = styled.div`
 `;
 
 const AboutPage = () => {
-  const randomImage = "src/images/stlogo.jpg"  ;
+  const randomImage = ""  ;
 
   return (
     <AboutContainer>
